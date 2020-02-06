@@ -1,7 +1,7 @@
 {
-    "name": "ffwagency/borgerdk-php",
+    "name": "bellcom/borgerdk-php",
     "description": "Borger.dk Article Export Service PHP SDK (unofficially)",
-    "homepage": "https://github.com/ffwagency/borgerdk-php",
+    "homepage": "https://github.com/bellcom/borgerdk-php",
     "keywords": [
         "php", "ffwagency", "borgerdk", "borger.dk"
     ],
